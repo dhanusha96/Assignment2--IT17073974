@@ -16,3 +16,5 @@ Username : dhanu@gmail.com Password : dhanu123
 05.Enter the following in URL bar
 
 https://github.com/dhanusha96/CSRF-Protection-using-double-submit-cookie-pattern-master.git
+
+http://github.com/dhanusha96/CSRF-Protection-using-double-submit-cookie-pattern-master.git
